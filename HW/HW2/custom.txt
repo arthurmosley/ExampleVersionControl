@@ -1,0 +1,5 @@
+
+Fred Smith      8
+George Jones    4
+Sally Smith     3
+                0
