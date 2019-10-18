@@ -7,7 +7,7 @@ using namespace std;
 int main() {
 
   // ---------------------------------------------------
-  // initialize v1 with 10 values...  the multiples of 5
+  // changing a comment
   Vec<int> v1( 10, 0 );
   Vec<int>::size_type i;
   for ( i = 0; i < v1.size(); i++) {
